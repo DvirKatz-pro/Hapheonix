@@ -1,10 +1,12 @@
 Id process:
+
 <img width="713" height="438" alt="Get Client" src="https://github.com/user-attachments/assets/76b47530-6472-4e5f-b4da-bfae4415d75c" />
 
 Buy product process:
 <img width="892" height="616" alt="ClientGetProduct" src="https://github.com/user-attachments/assets/c5075855-8946-4f07-a026-90213baa347c" />
 
 New Product process:
+
 <img width="586" height="242" alt="SaveOrUpdate" src="https://github.com/user-attachments/assets/ec6fc4b2-c0b9-479d-9a1d-bed5de0d5f14" />
 
 What i thought was missing:
